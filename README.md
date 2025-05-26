@@ -1,4 +1,4 @@
-## Hi there 👋
+## This is Bryan Luna iOS Developer 👋
 
 <!--
 **LunaBryan/LunaBryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+<img width="250" src="https://github.com/user-attachments/assets/77b2657e-a026-4db0-9b20-f8e21ffdb66f">
+
+## About Me
+- 🔭 Developing innovative iOS applications.
+- 👯 Working on projects that challenge my skills.
+- 🤔 Advanced iOS development techniques.
+- 😎 Learning new things related to iOS Development.
+- ⚡ Fun fact: Gym and reading
