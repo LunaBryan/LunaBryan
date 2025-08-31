@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-<img width="250" src="https://github.com/user-attachments/assets/77b2657e-a026-4db0-9b20-f8e21ffdb66f">
-
 ## About Me
 - 🔭 Developing innovative iOS applications.
 - 👯 Working on projects that challenge my skills.
