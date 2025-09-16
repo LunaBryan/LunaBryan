@@ -6,7 +6,7 @@
 - Mantainable apps architect
 - Friendly and mentor skills
 
-## 📈 Activity Graph
+## Activity
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LunaBryan&layout=compact&theme=radical)](https://github.com/LunaBryan) [![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=LunaBryan&show_icons=true&theme=radical)](https://github.com/LunaBryan)
 
