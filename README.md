@@ -1,23 +1,13 @@
-## This is Bryan Luna iOS Developer 👋
-
-<!--
-**LunaBryan/LunaBryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# This is Bryan Luna iOS Engineer 👋
 
 ## About Me
-- 🔭 Developing innovative iOS applications.
-- 👯 Working on projects that challenge my skills.
-- 🤔 Advanced iOS development techniques.
-- 😎 Learning new things related to iOS Development.
-- ⚡ Fun fact: Gym and reading
+- Experimented with App Store Connect
+- iOS Development and CI/CD Related things
+- Mantainable apps architect
+- Friendly and mentor skills
+
+## 📈 Activity Graph
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LunaBryan&layout=compact&theme=radical)](https://github.com/LunaBryan) [![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=LunaBryan&show_icons=true&theme=radical)](https://github.com/LunaBryan)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=LunaBryan&theme=onedark&no-frame=true&no-bg=true&row=1&column=6)
